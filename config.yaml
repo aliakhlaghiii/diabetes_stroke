@@ -1,0 +1,3 @@
+files:
+  diabetes: "./diabetes_data.csv"
+  stroke: "./stroke_data.csv"
