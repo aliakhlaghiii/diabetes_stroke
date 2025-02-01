@@ -1,13 +1,13 @@
-# Diabetes and Heart Attack Analysis
+# Diabetes and stroke Analysis
 
 ## Overview
 
-This project investigates the relationship between diabetes and heart attacks using two distinct datasets. The first dataset contains information related to diabetes diagnosis, while the second focuses on heart attack diagnosis. Although these datasets were collected independently, common features such as high blood pressure, smoking status, and BMI were selected for analysis.
+This project investigates the relationship between diabetes and stroke using two distinct datasets. The first dataset contains information related to diabetes diagnosis, while the second focuses on stroke diagnosis. Although these datasets were collected independently, common features such as high blood pressure, smoking status, and BMI were selected for analysis.
 
 The project consists of three main steps:
-1. Distribution and Frequency Analysis: Examined the distribution and frequency of high blood pressure, smoking status, and BMI for diabetes and heart attacks separately.
-2. Impact Analysis: Assessed how each of these factors influences diabetes and heart attack outcomes individually.
-3. Dataset Merging: Merged the datasets based on shared parameters to explore potential links between diabetes and heart attacks.
+1. Distribution and Frequency Analysis: Examined the distribution and frequency of high blood pressure, smoking status, and BMI for diabetes and strokes separately.
+2. Impact Analysis: Assessed how each of these factors influences diabetes and stroke outcomes individually.
+3. Dataset Merging: Merged the datasets based on shared parameters to explore potential links between diabetes and strokes.
 
 ## Dataset Source
 
